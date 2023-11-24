@@ -1,2 +1,2 @@
 # studijn-
-jak pracovat s GITHUB
+zkouška - jak pracovat s GITHUB
